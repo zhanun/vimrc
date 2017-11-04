@@ -10,7 +10,7 @@ my profile
  >  3 安装curl ，自动安装需要,  sudo apt-get install curl
  ---------------------------
  >  4 终端运行, curl https://j.mp/spf13-vim3 -L > spf13-vim.sh && sh spf13-vim.sh
- -------------------------
 
+*****
 
-####    <div align = right>*笔下皆语法，心中格式化*</div>        *笔下皆语法，心中格式化*
+####    <div align = right>*笔下皆语法，心中格式化*</div>     
